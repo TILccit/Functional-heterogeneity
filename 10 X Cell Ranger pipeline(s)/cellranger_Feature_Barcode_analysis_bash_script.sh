@@ -21,4 +21,4 @@
 cellranger count --id=Sample1_Feature_Barcode_outPut \
                    --libraries=/Functional_Heterogeneity/Feature_Barcode/library.csv \
                    --transcriptome=/opt/refdata-cellranger-GRCh38-3.0.0 \
-		   --feature-ref=/Functional_Heterogeneity/Feature_Barcode/feature_ref.csv 
+		   --feature-ref=/Functional_Heterogeneity/Feature_Barcode/feature_ref.csv
