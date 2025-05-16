@@ -7,3 +7,5 @@ Please contact us:
 Shawez Khan: shawez.khan@regionh.dk
 
 Marco Donia: marco.donia@regionh.dk
+arianna.draghi.01@regionh.dk
+chris.chamberlain@ucl.ac.uk
