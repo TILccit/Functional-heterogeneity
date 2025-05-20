@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# qsub -W group_list=cu_10158 -A cu_10158 -l nodes=2:ppn=20,mem=256gb,walltime=4:00:00 runTrust4_MM15_AUTO_A.sh
-
 module load tools
 module load trust4/1.0.12
 
