@@ -9,7 +9,7 @@ cd $PBS_O_WORKDIR
 
 # File paths
 bam=/possorted_genome_bam.bam
-hg38_bcrtcr=/home/projects/cu_10158/people/shakha/trust4/genome/hg38_bcrtcr.fa
+hg38_bcrtcr=/trust4/genome/hg38_bcrtcr.fa
 human_IMGT_C=trust4/genome/human_IMGT+C.fa
 
 # Run the Trust4 tool
